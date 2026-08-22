@@ -1,7 +1,12 @@
 ### Command to list all python env 
-'''python
+```python
 conda env list
-'''
-(base) C:\Users\hp>conda activate cellpose
-
-(cellpose) C:\Users\hp> cellpose
+```
+### Command for activate cellpose
+```python
+conda activate cellpose
+```
+### Deploying the GUI
+```python
+cellpose
+```
